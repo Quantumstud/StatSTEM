@@ -1,1 +1,1 @@
-C:\Users\Karel\Documents\MATLAB\StatSTEMv3.0\Examples\
+/media/tara/Data/ElectronMicroscopy_2020_RawFiles/AtomCount_SP/120220/50mrad_LargeDec/
